@@ -2,6 +2,10 @@
 
 ## 使用 Cocos Creator (v3.8.0) 开发
 
+## cocos商城
+
+商品详情: https://store.cocos.com/app/detail/5359
+
 ## 体验方式
 
 
